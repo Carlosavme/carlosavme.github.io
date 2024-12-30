@@ -22,9 +22,9 @@ author: Carlos Villalobos
 navbar-links:
   Acerca de mi: "acercademi"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  Mis columnas aquí: "https://carlosvillalobos.substack.com/"
 
 ################
 # --- Logo --- #
