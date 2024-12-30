@@ -20,7 +20,7 @@ author: Carlos Villalobos
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Acerca de mi: "acercademi"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
